@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="yellow">#E2D810</color>
+    <color name="purple">#451D8C</color>
+    <color name="magenta">#D9138A</color>
+    <color name="cyan">#12A4D9</color>
+    <color name="grey">#322E2F</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="blue_light">#55a8f4</color>
+    <color name="yellow_light">#ffc71c</color>
+    <color name="orange">#ff6e40</color>
+    <color name="pink">#A11344</color>
+    <color name="dark_blue">#1E3D59</color>
+    <color name="IjoTuo">#67864a</color>
+    <color name="IjoNom">#77974b</color>
+    <color name="Ijo">#1B5E20</color>
+
+</resources>
